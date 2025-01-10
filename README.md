@@ -1,3 +1,3 @@
 # .github
 
-Community health files for repositories in my account
+Community health files for repositories owned by my account
